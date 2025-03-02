@@ -1,6 +1,6 @@
 baseurl = ""
 metaDataFormat = "yaml"
-title = "Balitbang Provinsi Kalbar"
+title = "LPK Midzuki Sekai Indonesia"
 theme = "blist"
 DefaultContentLanguage = "id"
 DefaultContentLanguageInSubdir = false
@@ -8,18 +8,18 @@ contentDir = "content" #English"
 weight = 1
 languageName = "Indonesia"
 [languages.id.params]
-introTitle = "Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
-introSubtitle = "Website resmi Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
+introTitle = "LPK Midzuki Sekai Indonesia"
+introSubtitle = "Website resmi LPK Midzuki Sekai Indonesia"
 introPhoto = "/picture.jpg"
 logo = "/logo.png"
 name = "Top Post"
 url = "/en/blog/emoji-support/"
 weight = 4
 [params]
-domain = 'litbang.kalbarprov.go.id'
-phone = "(0561) 748881"
-address = "Jalan Jenderal Ahmad Yani Pontianak Kompleks Kantor Gubernur Kalimantan Barat Kode Pos 78124"
-email = "litbang@kalbarprov.go.id"
+domain = 'https://lpkmidzukikendal.vercel.app/'
+phone = "082139184575"
+address = "Dusun lumbu, Tejorejo, Kec. Ringinarum, Kabupaten Kendal, Jawa Tengah 51356"
+email = "lpkmidzukikendal@gmail.com"
 darkModeToggle = true
 enableSearch = true
 searchKeys = "["
@@ -425,23 +425,23 @@ hari = "Kamis"
 [[params.running_text]]
 text = "Selamat Datang di Website Resmi Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
 [[params.sliders.images]]
-url = "jembatan kapuas.png"
+url = "slider0.png"
 extension = "png"
 [[params.sliders.images]]
-url = "rumah melayu.png"
+url = "slider1.png"
 extension = "png"
 [[params.sliders.images]]
-url = "Slide Web Utama Balitbang.png"
+url = "slider2.png"
 extension = "png"
 [[params.sliders.images]]
-url = "Slider HKI 2024.png"
+url = "slider3.png"
 extension = "png"
 [[params.sliders.images]]
-url = "Slider HUT Kota Pontianak 2024.png"
+url = "slider4.png"
 extension = "png"
 [[params.sliders.images]]
 url = "rumah radang.png"
 extension = "png"
 [[params.sliders.images]]
-url = "tugu katulistiwa.png"
+url = "slider5.png"
 extension = "png"
