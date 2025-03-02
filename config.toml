@@ -423,25 +423,25 @@ judul = "Pengidentifikasian Inovasi Tingkat SMA, SMK, dan SLB Dalam Rangka Penin
 tanggal = "31/10/2024"
 hari = "Kamis"
 [[params.running_text]]
-text = "Selamat Datang di Website Resmi Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
+text = "Selamat Datang di Website Resmi LPK Midzuki Sekai Indonesia"
 [[params.sliders.images]]
-url = "jembatan kapuas.png"
+url = "slider0.png"
 extension = "png"
 [[params.sliders.images]]
-url = "rumah melayu.png"
+url = "slider4.png"
 extension = "png"
 [[params.sliders.images]]
-url = "Slide Web Utama Balitbang.png"
+url = "slider5.png"
 extension = "png"
 [[params.sliders.images]]
-url = "Slider HKI 2024.png"
+url = "slider1.png"
 extension = "png"
 [[params.sliders.images]]
-url = "Slider HUT Kota Pontianak 2024.png"
+url = "slider2.png"
 extension = "png"
 [[params.sliders.images]]
 url = "rumah radang.png"
 extension = "png"
 [[params.sliders.images]]
-url = "tugu katulistiwa.png"
+url = "slider3.png"
 extension = "png"
