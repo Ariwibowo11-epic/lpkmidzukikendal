@@ -72,30 +72,17 @@ weight = 1
 identifier = 'profil'
 name = "Profil"
 weight = 2
-[[languages.id.menu.main]]
-identifier = 'riset'
-name = "Riset"
-weight = 3
+
 [[languages.id.menu.main]]
 identifier = 'informasi'
 name = "Informasi"
 weight = 4
-[[languages.id.menu.main]]
-identifier = 'dokumen'
-name = "Dokumen"
-weight = 5
+
 [[languages.id.menu.main]]
 identifier = 'publikasi'
 name = "Publikasi"
 weight = 6
-[[languages.id.menu.main]]
-identifier = 'pelayanan'
-name = "Pelayanan"
-weight = 7
-[[languages.id.menu.main]]
-identifier = 'ppid'
-name = "PPID"
-weight = 8
+
 
 [[languages.id.menu.main]]
 identifier = 'sejarah'
@@ -121,36 +108,14 @@ name = "Lomba Inovasi"
 parent = "pengumuman"
 url = "/lomba inovasi"
 weight = 5
-[[languages.id.menu.main]]
-identifier = 'pertek penelitian'
-name = "Pertek Penelitian"
-parent = "pengumuman"
-url = "/pertek penelitian"
-weight = 6
-[[languages.id.menu.main]]
-identifier = 'survey sekam padi'
-name = "Survey Sekam Padi"
-parent = "pelayanan"
-url = "https://sekampadi.kalbarprov.go.id/"
-weight = 5
+
 [[languages.id.menu.main]]
 identifier = 'pengaduan online'
 name = "Pengaduan Online"
 parent = "pelayanan"
 url = "https://forms.gle/pQXED5m5zpJ9ZabE6"
 weight = 6
-[[languages.id.menu.main]]
-identifier = 'saq'
-name = "SAQ"
-parent = "informasi"
-url = "/saq/frequently-ask-question-faq/"
-weight = 3
-[[languages.id.menu.main]]
-identifier = 'jalur evakuasi'
-name = "Jalur Evakuasi"
-parent = "informasi"
-url = "/jalur-evakuasi/denah-dan-jalur-evakausi"
-weight = 6
+
 [[languages.id.menu.main]]
 identifier = 'jurnal'
 name = "Jurnal"
@@ -208,90 +173,14 @@ name = "Penghargaan"
 parent = "informasi"
 url = "/penghargaan/penghargaan"
 weight = 5
-[[languages.id.menu.main]]
-identifier = 'renja monev'
-name = "Renja Monev"
-parent = "dokumen"
-url = "/renja-monev/renja-monev"
-weight = 1
-[[languages.id.menu.main]]
-identifier = 'sop kelembagaan'
-name = "SOP Kelembagaan"
-parent = "dokumen"
-url = "/sop-kelembagaan/sop-kelembagaan"
-weight = 2
-[[languages.id.menu.main]]
-identifier = 'peraturan kelitbangan'
-name = "Peraturan Kelitbangan"
-parent = "dokumen"
-url = "/peraturan-kelitbangan/peraturan-kelitbangan"
-weight = 3
-[[languages.id.menu.main]]
-identifier = 'aparatur'
-name = "Aparatur"
-parent = "dokumen"
-url = "/aparatur/aparatur"
-weight = 5
-[[languages.id.menu.main]]
-identifier = 'profil layanan'
-name = "Profil Layanan"
-parent = "pelayanan"
-url = "/profil-layanan/profil-layanan"
-weight = 1
-[[languages.id.menu.main]]
-identifier = 'pengelolaan pengaduan'
-name = "Pengelolaan Pengaduan"
-parent = "pelayanan"
-url = "/pengelolaan-pengaduan/pengelolaan-pengaduan"
-weight = 4
-[[languages.id.menu.main]]
-identifier = 'laporan skm'
-name = "Laporan SKM"
-parent = "pelayanan"
-url = "/laporan-skm/laporan-skm"
-weight = 7
-[[languages.id.menu.main]]
-identifier = 'profil ppid'
-name = "Profil PPID"
-parent = "ppid"
-url = "/profil-ppid/profil-ppid"
-weight = 1
-[[languages.id.menu.main]]
-identifier = 'regulasi ppid'
-name = "Regulasi PPID"
-parent = "ppid"
-url = "/regulasi-ppid/regulasi-ppid"
-weight = 2
-[[languages.id.menu.main]]
-identifier = 'tata cara'
-name = "Tata Cara"
-parent = "ppid"
-url = "/tata-cara/tata-cara"
-weight = 4
-[[languages.id.menu.main]]
-identifier = 'jumlah permohonan informasi'
-name = "Jumlah Permohonan Informasi"
-parent = "ppid"
-url = "/jumlah-permohonan-informasi/jumlah-permohonan-informasi"
-weight = 9
-[[languages.id.menu.main]]
-identifier = 'keuangan dan aset'
-name = "Keuangan dan Aset"
-parent = "dokumen"
-url = "/keuangan-dan-aset/keuangan-dan-aset"
-weight = 4
+
 [[languages.id.menu.main]]
 identifier = 'video'
 name = "Video"
 parent = "publikasi"
 url = "/video"
 weight = 8
-[[languages.id.menu.main]]
-identifier = 'google scholar lityasa'
-name = "Google Scholar Lityasa"
-parent = "publikasi"
-url = "/google-scholar-lityasa/google-scholar-lityasa"
-weight = 7
+
 [[languages.id.menu.main]]
 identifier = 'kontak'
 name = "Kontak"
