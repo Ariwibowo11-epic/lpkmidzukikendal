@@ -1,6 +1,6 @@
-baseurl = ""
+baseurl = "http://lpkmidzukisekaiindonesia.netlify.app"
 metaDataFormat = "yaml"
-title = "Balitbang Provinsi Kalbar"
+title = "LPK Midzuki Sekai Indonesia"
 theme = "blist"
 DefaultContentLanguage = "id"
 DefaultContentLanguageInSubdir = false
@@ -8,8 +8,8 @@ contentDir = "content" #English"
 weight = 1
 languageName = "Indonesia"
 [languages.id.params]
-introTitle = "Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
-introSubtitle = "Website resmi Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
+introTitle = "LPK Midzuki Sekai Indonesia"
+introSubtitle = "Website resmi LPK Midzuki Sekai Indonesia"
 introPhoto = "/picture.jpg"
 logo = "/logo.png"
 name = "Top Post"
@@ -18,12 +18,12 @@ weight = 4
 [params]
 domain = 'litbang.kalbarprov.go.id'
 phone = "(0561) 748881"
-address = "Jalan Jenderal Ahmad Yani Pontianak Kompleks Kantor Gubernur Kalimantan Barat Kode Pos 78124"
-email = "litbang@kalbarprov.go.id"
+address = "Dusun lumbu, Tejorejo, Kec. Ringinarum, Kabupaten Kendal, Jawa Tengah 51356"
+email = "lpkmidzukisekai@gmail.com"
 darkModeToggle = true
 enableSearch = true
 searchKeys = "["
-copyright = "Copyright © 2024"
+copyright = "Copyright © 2023"
 favicon = "/favicon.svg"
 ascentColor = "bg-customGreen"
 frontBundle = "Berita"
