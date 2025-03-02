@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on LPK Midzuki Sekai Indonesia</title>
-    <link>http://localhost:1313/video/</link>
+    <link>http://https://lpkmidzukisekaiindonesia.netlify.app/iindonesia.netlify.app/video/</link>
     <description>Recent content in Video on LPK Midzuki Sekai Indonesia</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Sat, 18 Jan 2025 07:01:38 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/video/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://https://lpkmidzukisekaiindonesia.netlify.app/iindonesia.netlify.app/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pembinaan Fisik 18 Januari 2025</title>
-      <link>http://localhost:1313/video/pembinaan-fisik-18-januari-2025/</link>
+      <link>http://https://lpkmidzukisekaiindonesia.netlify.app/iindonesia.netlify.app/video/pembinaan-fisik-18-januari-2025/</link>
       <pubDate>Sat, 18 Jan 2025 07:01:38 +0000</pubDate>
-      <guid>http://localhost:1313/video/pembinaan-fisik-18-januari-2025/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/lpkmidzuki_kendal/reel/DE9MfiszpJa/&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/ppGLtlqHcnvjtFqVCLcG.png&#34; alt=&#34;&#34; width=&#34;381&#34; height=&#34;475&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>http://https://lpkmidzukisekaiindonesia.netlify.app/iindonesia.netlify.app/video/pembinaan-fisik-18-januari-2025/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/lpkmidzuki_kendal/reel/DE9MfiszpJa/&#34;&gt;&lt;img src=&#34;http://https://lpkmidzukisekaiindonesia.netlify.app/iindonesia.netlify.app/images/ppGLtlqHcnvjtFqVCLcG.png&#34; alt=&#34;&#34; width=&#34;381&#34; height=&#34;475&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
