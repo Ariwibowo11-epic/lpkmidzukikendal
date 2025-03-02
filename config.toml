@@ -187,96 +187,15 @@ name = "Template"
 parent = "publikasi"
 url = "/template/template"
 weight = 5
-[[languages.id.menu.main]]
-identifier = 'permohonan online'
-name = "Permohonan Online"
-parent = "ppid"
-url = "/permohonan-online/permohonan-online-ppid/"
-weight = 6
-[[languages.id.menu.main]]
-identifier = 'formulir ppid'
-name = "Formulir PPID"
-parent = "ppid"
-url = "/formulir-ppid/formulir-ppid/"
-weight = 8
-[[languages.id.menu.main]]
-identifier = 'laporan ppid'
-name = "Laporan PPID"
-parent = "ppid"
-url = "/laporan-ppid/laporan-ppid/"
-weight = 7
-[[languages.id.menu.main]]
-identifier = 'daftar informasi'
-name = "Daftar Informasi"
-parent = "ppid"
-url = "/daftar-informasi/daftar-informasi/"
-weight = 5
-[[languages.id.menu.main]]
-identifier = 'sop ppid'
-name = "SOP PPID"
-parent = "ppid"
-url = "/sop-ppid/sop-ppid"
-weight = 3
-[[languages.id.menu.main]]
-identifier = 'standar pelayanan'
-name = "Standar Pelayanan"
-parent = "pelayanan"
-url = "/standar-pelayanan/standar-pelayanan"
-weight = 2
+
 [[languages.id.menu.main]]
 identifier = 'program kerja'
 name = "Program Kerja"
-parent = "profil"
-url = "/program-kerja/program-kerja-balitbang"
-weight = 3
-[[languages.id.menu.main]]
-identifier = 'profil pegawai'
-name = "Profil Pegawai"
-parent = "profil"
-url = "/profil-pegawai/profil-pegawai-balitbang"
-weight = 4
-[[languages.id.menu.main]]
-identifier = 'matrik kegiatan'
-name = "Matrik Kegiatan"
 parent = "informasi"
-url = "/matrik-kegiatan/matrik-kegiatan"
+url = "/program-kerja/program-kerja"
 weight = 4
-[[languages.id.menu.main]]
-identifier = 'program riset'
-name = "Program Riset"
-parent = "riset"
-url = "/program-riset/program-riset"
-weight = 1
-[[languages.id.menu.main]]
-identifier = 'hasil kelitbangan'
-name = "Hasil Kelitbangan"
-parent = "riset"
-url = "/hasil-kelitbangan/hasil-kelitbangan"
-weight = 3
-[[languages.id.menu.main]]
-identifier = 'litbangjirap'
-name = "Litbangjirap"
-parent = "riset"
-url = "/litbangjirap/litbangjirap"
-weight = 2
-[[languages.id.menu.main]]
-identifier = 'pengumuman'
-name = "Pengumuman"
-parent = "informasi"
-url = "/pengumuman/pengumuman"
-weight = 2
-[[languages.id.menu.main]]
-identifier = 'kerjasama kelitbangan'
-name = "Kerjasama Kelitbangan"
-parent = "dokumen"
-url = "/kerjasama-kelitbangan/kerjasama-kelitbangan"
-weight = 6
-[[languages.id.menu.main]]
-identifier = 'unit kerja'
-name = "Unit Kerja"
-parent = "profil"
-url = "/unit-kerja/unit-kerja"
-weight = 2
+
+
 [[languages.id.menu.main]]
 identifier = 'profil badan'
 name = "Profil Badan"
