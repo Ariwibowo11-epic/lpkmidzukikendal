@@ -1,6 +1,6 @@
-baseurl = "http://lpkmidzukisekaiindonesia.netlify.app"
+baseurl = ""
 metaDataFormat = "yaml"
-title = "LPK Midzuki Sekai Indonesia"
+title = "Balitbang Provinsi Kalbar"
 theme = "blist"
 DefaultContentLanguage = "id"
 DefaultContentLanguageInSubdir = false
@@ -8,8 +8,8 @@ contentDir = "content" #English"
 weight = 1
 languageName = "Indonesia"
 [languages.id.params]
-introTitle = "LPK Midzuki Sekai Indonesia"
-introSubtitle = "Website resmi LPK Midzuki Sekai Indonesia"
+introTitle = "Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
+introSubtitle = "Website resmi Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
 introPhoto = "/picture.jpg"
 logo = "/logo.png"
 name = "Top Post"
@@ -18,12 +18,12 @@ weight = 4
 [params]
 domain = 'litbang.kalbarprov.go.id'
 phone = "(0561) 748881"
-address = "Dusun lumbu, Tejorejo, Kec. Ringinarum, Kabupaten Kendal, Jawa Tengah 51356"
-email = "lpkmidzukisekai@gmail.com"
+address = "Jalan Jenderal Ahmad Yani Pontianak Kompleks Kantor Gubernur Kalimantan Barat Kode Pos 78124"
+email = "litbang@kalbarprov.go.id"
 darkModeToggle = true
 enableSearch = true
 searchKeys = "["
-copyright = "Copyright © 2023"
+copyright = "Copyright © 2024"
 favicon = "/favicon.svg"
 ascentColor = "bg-customGreen"
 frontBundle = "Berita"
@@ -423,25 +423,25 @@ judul = "Pengidentifikasian Inovasi Tingkat SMA, SMK, dan SLB Dalam Rangka Penin
 tanggal = "31/10/2024"
 hari = "Kamis"
 [[params.running_text]]
-text = "Selamat Datang di Website Resmi LPK Midzuki Sekai Indonesia"
+text = "Selamat Datang di Website Resmi Badan Penelitian dan Pengembangan Provinsi Kalimantan Barat"
 [[params.sliders.images]]
-url = "slider0.png"
+url = "jembatan kapuas.png"
 extension = "png"
 [[params.sliders.images]]
-url = "slider4.png"
+url = "rumah melayu.png"
 extension = "png"
 [[params.sliders.images]]
-url = "slider5.png"
+url = "Slide Web Utama Balitbang.png"
 extension = "png"
 [[params.sliders.images]]
-url = "slider1.png"
+url = "Slider HKI 2024.png"
 extension = "png"
 [[params.sliders.images]]
-url = "slider2.png"
+url = "Slider HUT Kota Pontianak 2024.png"
 extension = "png"
 [[params.sliders.images]]
 url = "rumah radang.png"
 extension = "png"
 [[params.sliders.images]]
-url = "slider3.png"
+url = "tugu katulistiwa.png"
 extension = "png"
