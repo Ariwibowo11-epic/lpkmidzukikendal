@@ -172,19 +172,19 @@ url = "/kontak/kontak"
 weight = 1
 [[params.homepage.social.icons]]
 website = "twitter"
-url = "https://x.com/Umparlitbang?t=XRUF21w1Gaqdxp0TmpgRbA&s=09"
+url = "https://x.com/LpkmidzukiSI?t=XRUF21w1Gaqdxp0TmpgRbA&s=09"
 [[params.homepage.social.icons]]
 website = "tiktok"
-url = "https://www.tiktok.com/@balitbang_kalbar"
+url = "https://www.tiktok.com/@lpkmidzukisekaiindonesia"
 [[params.homepage.social.icons]]
 website = "youtube"
-url = "https://www.youtube.com/@balitbangkalbar"
+url = "https://www.youtube.com/@lpkmidzukisekaiindonesia"
 [[params.homepage.social.icons]]
 website = "instagram"
-url = "https://www.instagram.com/balitbang_kalbar/"
+url = "https://www.instagram.com/lpkmidzuki_kendal/"
 [[params.homepage.social.icons]]
 website = "facebook"
-url = "https://www.facebook.com/litbangkalbar"
+url = "https://www.facebook.com/Lpkmidzukisekaiindonesia/"
 [[params.agenda]]
 lokasi = "Lapangan Apel LPK Midzuki Sekai Indonesia (Kab.Kendal)."
 jamMulai = "07:30"
@@ -231,7 +231,7 @@ extension = "png"
 url = "slider4.png"
 extension = "png"
 [[params.sliders.images]]
-url = "rumah radang.png"
+url = "slider6.png"
 extension = "png"
 [[params.sliders.images]]
 url = "slider5.png"
