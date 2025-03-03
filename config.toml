@@ -38,8 +38,8 @@ hideMeta = false
 hideOtherLanguages = false
 toc = true
 hidePageThumbnail = false
-introTitle = "Dinas Komunikasi dan Informatika"
-introSubtitle = "Website resmi Dinas Komunikasi dan Informatika provinsi Kalimantan Barat"
+introTitle = "LPK Midzuki Sekai Indonesia"
+introSubtitle = "Website resmi LPK Midzuki Sekai Indonesia"
 [params.comments]
 system = "giscus"
 repo = ""
@@ -102,12 +102,6 @@ name = "Info Jurnal"
 parent = "pengumuman"
 url = "/info jurnal"
 weight = 4
-[[languages.id.menu.main]]
-identifier = 'lomba inovasi'
-name = "Lomba Inovasi"
-parent = "pengumuman"
-url = "/lomba inovasi"
-weight = 5
 
 [[languages.id.menu.main]]
 identifier = 'pengaduan online'
