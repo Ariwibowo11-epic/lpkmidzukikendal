@@ -90,23 +90,12 @@ name = "Sejarah"
 parent = "profil badan"
 url = "/page/sejarah"
 weight = 1
-[[languages.id.menu.main]]
-identifier = 'hki'
-name = "HKI"
-parent = "pengumuman"
-url = "/hki"
-weight = 2
-[[languages.id.menu.main]]
-identifier = 'info jurnal'
-name = "Info Jurnal"
-parent = "pengumuman"
-url = "/info jurnal"
-weight = 4
+
 
 [[languages.id.menu.main]]
-identifier = 'pengaduan online'
-name = "Pengaduan Online"
-parent = "pelayanan"
+identifier = 'pendaftaran online'
+name = "Pendaftaran Online"
+parent = "pendaftaran online"
 url = "https://forms.gle/pQXED5m5zpJ9ZabE6"
 weight = 6
 
