@@ -5,7 +5,9 @@ date: 2025-03-15
 thumbnail: /Berita/thumbnails/kemenker.jpeg
 ---
 <p style="line-height: 1.1;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><img src="/images/kemenker.jpeg" width="385" height="239" alt="" /></span></p>
-<p class="MsoNormal"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><span style="line-height: 107%; color: black; background: white;">Menteri Ketenagakerjaan, Yassierli, secara resmi melepas 570 peserta magang ke Jepang. Pelepasan tersebut dilaksanakan di Balai Besar Pelatihan Vokasi dan Produktivitas (BBPVP) Bandung, Jawa Barat, Sabtu (15/3/2025).
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><span style="line-height: 107%; color: black; background: white;">
+
+Menteri Ketenagakerjaan, Yassierli, secara resmi melepas 570 peserta magang ke Jepang. Pelepasan tersebut dilaksanakan di Balai Besar Pelatihan Vokasi dan Produktivitas (BBPVP) Bandung, Jawa Barat, Sabtu (15/3/2025).
 
 Dalam arahannya, Menaker menekankan pentingnya menjaga etos kerja, kedisiplinan, dan akhlak mulia selama menjalani program pemagangan di Jepang. Pasalnya, hal tersebut tidak hanya mencerminkan kualitas pribadi peserta, tetapi juga membawa nama baik bangsa Indonesia di mata dunia.
 
