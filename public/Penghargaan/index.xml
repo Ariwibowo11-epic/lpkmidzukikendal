@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PENGHARGAAN on LPK Midzuki Sekai Indonesia</title>
-    <link>//localhost:1313/penghargaan/</link>
+    <link>https://lpkmidzukisekaiindonesia.netlify.app/penghargaan/</link>
     <description>Recent content in PENGHARGAAN on LPK Midzuki Sekai Indonesia</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Thu, 01 Aug 2024 02:20:30 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/penghargaan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lpkmidzukisekaiindonesia.netlify.app/penghargaan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Penghargaan</title>
-      <link>//localhost:1313/penghargaan/penghargaan/</link>
+      <link>https://lpkmidzukisekaiindonesia.netlify.app/penghargaan/penghargaan/</link>
       <pubDate>Thu, 01 Aug 2024 02:20:30 +0000</pubDate>
-      <guid>//localhost:1313/penghargaan/penghargaan/</guid>
+      <guid>https://lpkmidzukisekaiindonesia.netlify.app/penghargaan/penghargaan/</guid>
       <description></description>
     </item>
   </channel>

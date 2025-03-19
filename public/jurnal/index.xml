@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JURNAL on LPK Midzuki Sekai Indonesia</title>
-    <link>//localhost:1313/jurnal/</link>
+    <link>https://lpkmidzukisekaiindonesia.netlify.app/jurnal/</link>
     <description>Recent content in JURNAL on LPK Midzuki Sekai Indonesia</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Thu, 01 Aug 2024 03:53:49 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/jurnal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lpkmidzukisekaiindonesia.netlify.app/jurnal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jurnal Borneo Akcaya</title>
-      <link>//localhost:1313/jurnal/jurnal-borneo-akcaya/</link>
+      <link>https://lpkmidzukisekaiindonesia.netlify.app/jurnal/jurnal-borneo-akcaya/</link>
       <pubDate>Thu, 01 Aug 2024 03:53:49 +0000</pubDate>
-      <guid>//localhost:1313/jurnal/jurnal-borneo-akcaya/</guid>
+      <guid>https://lpkmidzukisekaiindonesia.netlify.app/jurnal/jurnal-borneo-akcaya/</guid>
       <description></description>
     </item>
   </channel>
