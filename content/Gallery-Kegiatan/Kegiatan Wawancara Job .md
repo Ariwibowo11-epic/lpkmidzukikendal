@@ -1,6 +1,6 @@
 ---
 author: TIM IT MSI
-title: "Balitbang Menerima Kunjungan Benchmarking Indeks Pengelolaan Keuangan Daerah (IPKD) Provinsi Sulawesi Tenggara"
+title: "Kegiatan Wawancara Job"
 date: 2023-11-27
 thumbnail: /gallery-kegiatan/thumbnails/compressed_lx0LlcEpZgv1hzUsdYpnTdNrt413XV321ZHTm9fY.png
 ---
