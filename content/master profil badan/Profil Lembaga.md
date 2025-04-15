@@ -68,7 +68,7 @@ type: blank
     <p class="MsoNormal m-0 leading-6 text-justify">
         <span class="text-base font-poppins text-black dark:text-white">
             <span style="vertical-align: inherit;">
-                <span style="vertical-align: inherit;">Pada tahun 2005, keluar PERDA Provinsi Kalbar Tahun 2005 tentang Organisasi Perangkat Daerah Provinsi Kalimantan Barat, yang isinya antara lain melikuidasi Organisasi Balitbang Provinsi Kalbar (bentukan Tahun 2001). Meski dilikuidasi, namun fungsi litbang tetap eksis dan kembali berada di Badan Perencanaan Pembangunan Daerah (BAPPEDA) Provinsi Kalbar. Sebagai tindak lanjut PERDA tersebut, dengan peraturan Gubernur Kalbar Nomor 235 Tahun 2005 telah dibentuk Unit Penelitian Provinsi Kalbar, yang mempunyai tugas melaksanakan sebagian tugas teknis BAPPEDA Provinsi Kalbar di bidang Penelitian Kebijakan Makro Pemerintah Daerah berdasarkan peraturan peraturan-undangan yang berlaku.</span>
+                <span style="vertical-align: inherit;">.</span>
             </span>
         </span>
     </p>
