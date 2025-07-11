@@ -1,6 +1,6 @@
 ---
 author: TIM IT MSI
-title: "Pesan dan Kesan Siswa LPK Midzuki Sekai Indonesia"
+title: "Kesan dan Pesan Siswa LPK Midzuki Sekai Indonesia Muhamad Iqbal"
 date: 2025-05-31 07:01:38
 thumbnail: /Video/thumbnails/iqbal.jpeg
 urlVideo : https://www.tiktok.com/@lpkmidzukisekaiindonesia/video/7510476840637664518?is_from_webapp=1&sender_device=pc&web_id=7525649813115766280
